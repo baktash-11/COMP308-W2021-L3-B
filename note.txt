@@ -1,0 +1,14 @@
+creating a project using express generator 
+npm instal express-generator -g 
+express -e
+
+1 www is server js file has to rename it 
+2 delete bin;
+3 init the project 
+4 add install node module npm install 
+
+//have to install dev dependencies
+5 have to organize folders acorddinglly 
+6 clean up the code change all var to let (server.js)
+
+
