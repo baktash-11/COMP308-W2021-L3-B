@@ -2,6 +2,7 @@
 
 /**
  * Module dependencies.
+ * since server.js requires app.js app.js comes first 
  */
 
 let app = require('./app');

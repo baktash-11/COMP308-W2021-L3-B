@@ -10,5 +10,7 @@ express -e
 //have to install dev dependencies
 5 have to organize folders acorddinglly 
 6 clean up the code change all var to let (server.js)
+//have to delete users 
+
 
 
